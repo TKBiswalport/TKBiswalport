@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TKBiswalport
 - 👀 I’m interested in SDE
-- 🌱 I’m currently learning java fullstack Development
+- 🌱 I’m currently learning MERN Development
 - 📫 How to reach me tbiswal573@gmail.com
 
 <!---
